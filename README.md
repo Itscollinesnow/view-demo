@@ -6,5 +6,6 @@
 
 
 ![Github Issues](https://img.shields.io/github/issues/Itscollinesnow/view-demo?style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/Itscollinesnow/view-demo?style=for-the-badge)](https://github.com/Itscollinesnow/view-demo/network)
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/2215771ee0a51dedf127/test_coverage)](https://codeclimate.com/github/Itscollinesnow/view-demo/test_coverage)
