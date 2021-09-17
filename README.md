@@ -9,3 +9,5 @@
 ! [Overall Rating]  https://app.embold.io/organization/gh/Itscollinesnow/repositories?offset=0&limit=20&sortBy=repositoryName&searchTerm=&&currentPage=1&recordPerPage=20
 
 ![Github Issues](https://img.shields.io/github/issues/Itscollinesnow/view-demo?style=for-the-badge)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/2215771ee0a51dedf127/test_coverage)](https://codeclimate.com/github/Itscollinesnow/view-demo/test_coverage)
