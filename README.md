@@ -4,7 +4,7 @@
 
 [![code security](https://app.codacy.com/gh/Itscollinesnow/view-demo.png/security)
 
-[![code maintainablilty](https://codeclimate.com/github/Itscollinesnow/view-demo.png)]
+![code maintainablilty](https://codeclimate.com/github/Itscollinesnow/view-demo.png)
 
 
 ![Github Issues](https://img.shields.io/github/issues/Itscollinesnow/view-demo?style=for-the-badge)
